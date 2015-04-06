@@ -1,0 +1,57 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/FC_DATABUS.c" FileDate="2015-02-09, 13:08:50" FileAge="1423508930692" FileType="45637" CompNumb="16" />
+      <File Name="Documentation/ccTalk RS232_SIGNALS.txt" FileDate="2015-02-10, 07:56:03" FileAge="1423576563031" FileType="3072" />
+      <File Name="Generated_Code/FC_HOPPER.h" FileDate="2015-02-10, 07:55:57" FileAge="1423576557993" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/FC_HOPPER.c" FileDate="2015-02-10, 07:55:57" FileAge="1423576557976" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/TI_LEDS.h" FileDate="2015-02-10, 07:55:58" FileAge="1423576558632" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/UTIL.h" FileDate="2015-02-07, 07:39:13" FileAge="1423316353372" FileType="45637" CompNumb="19" />
+      <File Name="Sources/main.c" FileDate="2015-02-10, 07:55:59" FileAge="1423576559390" FileType="128" />
+      <File Name="Generated_Code/TI_LEDS.c" FileDate="2015-02-10, 07:55:59" FileAge="1423576559195" FileType="45637" CompNumb="17" />
+      <File Name="Sources/Events.h" FileDate="2015-02-10, 07:56:01" FileAge="1423576561124" FileType="131328" />
+      <File Name="Generated_Code/UTIL.c" FileDate="2015-02-07, 07:39:13" FileAge="1423316353330" FileType="45637" CompNumb="19" />
+      <File Name="Sources/Events.c" FileDate="2015-02-09, 12:59:48" FileAge="1423508388918" FileType="131328" />
+      <File Name="Generated_Code/AS_DATABUS.h" FileDate="2015-02-01, 22:02:20" FileAge="1422849740543" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/AS_DATABUS.c" FileDate="2015-02-01, 22:02:20" FileAge="1422849740536" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2015-02-01, 21:14:23" FileAge="1422846863168" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2015-02-01, 21:14:23" FileAge="1422846863093" FileType="45637" />
+      <File Name="Generated_Code/LED_CCTALK.h" FileDate="2015-02-06, 22:58:59" FileAge="1423285139926" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/PE_Timer.h" FileDate="2015-02-10, 07:55:59" FileAge="1423576559259" FileType="45637" />
+      <File Name="Generated_Code/LED_CCTALK.c" FileDate="2015-02-06, 22:58:59" FileAge="1423285139937" FileType="45637" CompNumb="15" />
+      <File Name="Documentation/ccTalk RS232_Settings.xml" FileDate="2015-02-10, 07:56:03" FileAge="1423576563586" FileType="3072" />
+      <File Name="Generated_Code/FC_CCTALK.h" FileDate="2015-02-01, 22:02:20" FileAge="1422849740984" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/PE_Timer.c" FileDate="2015-02-10, 07:55:59" FileAge="1423576559345" FileType="45637" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2015-02-06, 22:00:01" FileAge="1423281601670" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/EEPROM.h" FileDate="2015-02-07, 00:54:03" FileAge="1423292043452" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/FC_CCTALK.c" FileDate="2015-02-01, 22:02:20" FileAge="1422849740941" FileType="45637" CompNumb="10" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2015-02-07, 00:54:04" FileAge="1423292044112" FileType="8" CompNumb="8" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2015-02-10, 07:55:59" FileAge="1423576559548" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/EEPROM.c" FileDate="2015-02-07, 00:54:03" FileAge="1423292043424" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/AS_CCTALK.h" FileDate="2015-02-01, 22:02:20" FileAge="1422849740999" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/WDOG.h" FileDate="2015-02-01, 22:02:20" FileAge="1422849740558" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/AS_CCTALK.c" FileDate="2015-02-01, 22:02:20" FileAge="1422849740989" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/WDOG.c" FileDate="2015-02-01, 22:02:20" FileAge="1422849740552" FileType="45637" CompNumb="12" />
+      <File Name="Documentation/ccTalk RS232.txt" FileDate="2015-02-10, 07:56:03" FileAge="1423576563896" FileType="3072" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2015-02-01, 21:14:23" FileAge="1422846863283" FileType="45637" />
+      <File Name="Generated_Code/LED_RUN.h" FileDate="2015-02-06, 22:58:59" FileAge="1423285139824" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2015-02-01, 21:14:23" FileAge="1422846863358" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2015-02-01, 21:14:23" FileAge="1422846863307" FileType="45637" />
+      <File Name="Generated_Code/LED_RUN.c" FileDate="2015-02-06, 22:58:59" FileAge="1423285139884" FileType="45637" CompNumb="14" />
+      <File Name="Generated_Code/TI_CCTALK.h" FileDate="2015-02-01, 22:02:20" FileAge="1422849740927" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/TI_CCTALK.c" FileDate="2015-02-01, 22:02:20" FileAge="1422849740565" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2015-02-10, 07:56:00" FileAge="1423576560986" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/FC_DATABUS.h" FileDate="2015-02-09, 13:08:50" FileAge="1423508930666" FileType="45637" CompNumb="16" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>16</CodeGenReference>
+</CodeGenerationInfo>
